@@ -1,4 +1,4 @@
-# textmod
+# Textmod
 TextMod is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to lowercase and lowercase to Uppercase
 ![Screenshot (48)](https://user-images.githubusercontent.com/67950176/192091626-165bfa3c-0563-494c-b006-b74ab1f5bcb4.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/67950176/192091634-711dca1f-83fb-474e-b022-0a65e630ce20.png)
